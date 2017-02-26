@@ -1,4 +1,12 @@
 <?php
+/**
+ * 选择排序
+ * @author 296720094@qq.com
+ * @date      2017-02-26
+ * @copyright http://wxbuluo.com
+ * @param     [type]             $arr [description]
+ * @return    [type]                  [description]
+ */
 function findSmallest($arr){
 	$smallest = $arr[0];
 	$smallestIndex = 0;
