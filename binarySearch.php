@@ -1,4 +1,13 @@
 <?php
+/**
+ * 二分查找
+ * @author 296720094@qq.com
+ * @date      2017-02-26
+ * @copyright http://wxbuluo.com
+ * @param     [type]             $list [description]
+ * @param     [type]             $item [description]
+ * @return    [type]                   [description]
+ */
 function binary_search($list, $item)
 {
     $low = 0;
